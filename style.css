@@ -566,5 +566,7 @@ footer p{
 }
 	.arrow{
 		width: 50px;
+		margin: 0 20px;
+	
 	}
 }
