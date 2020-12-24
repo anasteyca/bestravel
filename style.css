@@ -565,8 +565,12 @@ footer p{
 	min-width: 350px;
 }
 	.arrow{
-		width: 50px;
-		margin: 0 20px;
-	
+		width: 40px;
+	}
+	h3{
+		font-size: 15pt;
+	}
+	.arrow{
+		margin: 0 4%;
 	}
 }
