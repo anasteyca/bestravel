@@ -365,7 +365,7 @@ li:focus:after {
     border-width: 3px;
     float: left;
     display: flex;
-    max-height: 550px;
+    max-height: 620px;
     overflow: hidden;
 
 
